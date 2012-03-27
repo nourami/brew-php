@@ -1,0 +1,17 @@
+[xhprof]
+install:
+1-download xhprof.rb
+2-mv xhprof.rb `brew --prefix`/Library/Formula
+3-brew install xhprof
+
+Doc:
+http://pecl.php.net/package/xhprof
+
+[http-php]
+install:
+1-download http-php.rb
+2-mv http-php.rb `brew --prefix`/Library/Formula
+3-brew install http-php
+
+Doc:
+http://php.net/manual/en/book.http.php
