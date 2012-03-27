@@ -1,4 +1,6 @@
 [xhprof]
+A Hierarchical Profiler for PHP
+
 install:
 1-download xhprof.rb
 2-mv xhprof.rb `brew --prefix`/Library/Formula
@@ -8,6 +10,8 @@ Doc:
 http://pecl.php.net/package/xhprof
 
 [http-php]
+Extended HTTP Support
+
 install:
 1-download http-php.rb
 2-mv http-php.rb `brew --prefix`/Library/Formula
