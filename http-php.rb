@@ -24,8 +24,7 @@ To use this software:
       extension="#{prefix}/http.so"
  * Restart your webserver.
  * Write a PHP page that calls "phpinfo();"
- * Load it in a browser and look for the info on the xhprof module.
- * If you see it, you have been successful!
+  * If you see it, you have been successful!
       EOS
   end
 end
