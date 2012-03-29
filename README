@@ -21,7 +21,7 @@ Doc:
 http://php.net/manual/en/book.http.php
 
 [ssh-php]
-Extended HTTP Support
+Bindings for the libssh2 library
 
 install:
 1-download ssh-php.rb
