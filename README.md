@@ -16,7 +16,7 @@ A Hierarchical Profiler for PHP
 _[install]_:
 
 * 1- download xhprof.rb
-* 2- `mv xhprof.rb `brew --prefix\`/Library/Formula`
+* 2- `mv xhprof.rb ``brew --prefix\`/Library/Formula`
 * 3- `brew install xhprof`
 
 Doc:
@@ -31,7 +31,7 @@ Extended HTTP Support
 _[install]_:
 
 * 1- download http-php.rb
-* 2- `mv http-php.rb `brew --prefix\`/Library/Formula`
+* 2- `mv http-php.rb ``brew --prefix\`/Library/Formula`
 * 3- `brew install http-php`
 
 Doc:
@@ -46,7 +46,7 @@ Bindings for the libssh2 library
 _[install]_:
 
 * 1- download ssh-php.rb
-* 2- `mv ssh-php.rb `brew --prefix\`/Library/Formula`
+* 2- `mv ssh-php.rb ``brew --prefix\`/Library/Formula`
 * 3- `brew install ssh-php`
 
 Doc:
