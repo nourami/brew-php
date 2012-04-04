@@ -40,8 +40,8 @@ Bindings for the libssh2 library
 
 install:
 1-download ssh-php.rb
-*` 2-<pre><code>mv ssh-php.rb `brew --prefix`/Library/Formula`
-*` 3-<pre><code>brew install ssh-php`
+*` 2-mv ssh-php.rb `brew --prefix`/Library/Formula`
+*` 3-brew install ssh-php`
 
 Doc:
 http://pecl.php.net/package/ssh2
