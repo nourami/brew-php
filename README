@@ -1,21 +1,21 @@
-<h2>Brew-php</h2>
+#Brew-php
 some php related formulas
 
-<h3>Requirements</h3>
-<ul>
-<li>Homebrew</li>
-<li>Snow Leopard - Lion</li>
-</ul>
+##Requirements
 
-<h3>Description</h3>
+*Homebrew
+*Snow Leopard - Lion
+
+##Description
+
 [xhprof]
 brew php xhprof
 A Hierarchical Profiler for PHP
 
 install:
 1-download xhprof.rb
-2-<pre><code>mv xhprof.rb `brew --prefix`/Library/Formula</code></pre>
-3-<pre><code>brew install xhprof</code></pre>
+*`2- mv xhprof.rb `brew --prefix`/Library/Formula`
+*`3- brew install xhprof`
 
 Doc:
 http://pecl.php.net/package/xhprof
@@ -27,8 +27,8 @@ Extended HTTP Support
 
 install:
 1-download http-php.rb
-2-<pre><code>mv http-php.rb `brew --prefix`/Library/Formula</code></pre>
-3-<pre><code>brew install http-php</code></pre>
+*` 2mv http-php.rb `brew --prefix`/Library/Formula`
+*` 3brew install http-php`
 
 Doc:
 http://php.net/manual/en/book.http.php
@@ -40,8 +40,8 @@ Bindings for the libssh2 library
 
 install:
 1-download ssh-php.rb
-2-<pre><code>mv ssh-php.rb `brew --prefix`/Library/Formula</code></pre>
-3-<pre><code>brew install ssh-php</code></pre>
+*` 2-<pre><code>mv ssh-php.rb `brew --prefix`/Library/Formula`
+*` 3-<pre><code>brew install ssh-php`
 
 Doc:
 http://pecl.php.net/package/ssh2
