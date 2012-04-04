@@ -10,8 +10,8 @@ some php related formulas
 
 _[xhprof]_
 
-brew php xhprof
-A Hierarchical Profiler for PHP
+* brew php xhprof
+* A Hierarchical Profiler for PHP
 
 _[install]_:
 
@@ -25,8 +25,8 @@ http://pecl.php.net/package/xhprof
 
 _[http-php]_
 
-brew php http
-Extended HTTP Support
+* brew php http
+* Extended HTTP Support
 
 _[install]_:
 
@@ -40,8 +40,8 @@ http://php.net/manual/en/book.http.php
 
 _[ssh-php]_
 
-brew php ssh2
-Bindings for the libssh2 library
+* brew php ssh2
+* Bindings for the libssh2 library
 
 _[install]_:
 
