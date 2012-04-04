@@ -1,4 +1,5 @@
 [xhprof]
+brew php xhprof
 A Hierarchical Profiler for PHP
 
 install:
@@ -11,6 +12,7 @@ http://pecl.php.net/package/xhprof
 
 
 [http-php]
+brew php http
 Extended HTTP Support
 
 install:
@@ -23,6 +25,7 @@ http://php.net/manual/en/book.http.php
 
 
 [ssh-php]
+brew php ssh2
 Bindings for the libssh2 library
 
 install:
