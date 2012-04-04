@@ -1,12 +1,12 @@
-#Brew-php
+# Brew-php
 some php related formulas
 
-##Requirements
+## Requirements
 
-*Homebrew
-*Snow Leopard - Lion
+* Homebrew
+* Snow Leopard - Lion
 
-##Description
+## Description
 
 [xhprof]
 brew php xhprof
