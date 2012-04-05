@@ -20,7 +20,8 @@ _[install]_:
 * 3- `brew install xhprof`
 
 _[Doc]_:
-[http://pecl.php.net/package/xhprof](http://pecl.php.net/package/xhprof)
+
+* [http://pecl.php.net/package/xhprof](http://pecl.php.net/package/xhprof)
 
 
 #_[http-php]_
@@ -35,7 +36,8 @@ _[install]_:
 * 3- `brew install http-php`
 
 _[Doc]_:
-[http://php.net/manual/en/book.http.php](http://php.net/manual/en/book.http.php)
+
+* [http://php.net/manual/en/book.http.php](http://php.net/manual/en/book.http.php)
 
 
 #_[ssh-php]_
@@ -50,4 +52,5 @@ _[install]_:
 * 3- `brew install ssh-php`
 
 _[Doc]_:
-[http://pecl.php.net/package/ssh2](http://pecl.php.net/package/ssh2)
+
+* [http://pecl.php.net/package/ssh2](http://pecl.php.net/package/ssh2)
