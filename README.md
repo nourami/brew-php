@@ -21,7 +21,7 @@ _[install]_:
 
 _[Doc]_:
 
-* [http://pecl.php.net/package/xhprof](http://pecl.php.net/package/xhprof)
+[http://pecl.php.net/package/xhprof](http://pecl.php.net/package/xhprof)
 
 
 #_[http-php]_
@@ -37,7 +37,7 @@ _[install]_:
 
 _[Doc]_:
 
-* [http://php.net/manual/en/book.http.php](http://php.net/manual/en/book.http.php)
+[http://php.net/manual/en/book.http.php](http://php.net/manual/en/book.http.php)
 
 
 #_[ssh-php]_
@@ -53,4 +53,4 @@ _[install]_:
 
 _[Doc]_:
 
-* [http://pecl.php.net/package/ssh2](http://pecl.php.net/package/ssh2)
+[http://pecl.php.net/package/ssh2](http://pecl.php.net/package/ssh2)
