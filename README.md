@@ -19,8 +19,8 @@ _[install]_:
 * 2- mv xhprof.rb \`brew --prefix\`/Library/Formula
 * 3- `brew install xhprof`
 
-Doc:
-http://pecl.php.net/package/xhprof
+_[Doc]_:
+[http://pecl.php.net/package/xhprof](http://pecl.php.net/package/xhprof)
 
 
 #_[http-php]_
@@ -34,8 +34,8 @@ _[install]_:
 * 2- mv http-php.rb \`brew --prefix\`/Library/Formula
 * 3- `brew install http-php`
 
-Doc:
-http://php.net/manual/en/book.http.php
+_[Doc]_:
+[http://php.net/manual/en/book.http.php](http://php.net/manual/en/book.http.php)
 
 
 #_[ssh-php]_
@@ -49,5 +49,5 @@ _[install]_:
 * 2- mv ssh-php.rb \`brew --prefix\`/Library/Formula
 * 3- `brew install ssh-php`
 
-Doc:
-http://pecl.php.net/package/ssh2
+_[Doc]_:
+[http://pecl.php.net/package/ssh2](http://pecl.php.net/package/ssh2)
