@@ -10,6 +10,8 @@ some php related formulas
 
 #_[xhprof]_
 
+XHProf is a function-level hierarchical profiler for PHP and has a simple HTML based navigational interface. The raw data collection component is implemented in C (as a PHP extension)
+
 * brew php xhprof
 * A Hierarchical Profiler for PHP
 
@@ -26,6 +28,10 @@ _[Doc]_:
 
 #_[http-php]_
 
+The HTTP extension aims to provide a convenient and powerful set of functionality for major applications.
+
+The HTTP extension eases handling of HTTP URLs, dates, redirects, headers and messages in a HTTP context (both incoming and outgoing). It also provides means for client negotiation of preferred language and charset, as well as a convenient way to exchange arbitrary data with caching and resuming capabilities.
+
 * brew php http
 * Extended HTTP Support
 
@@ -41,6 +47,9 @@ _[Doc]_:
 
 
 #_[ssh-php]_
+
+Provides bindings to the functions of libssh2 which implements the SSH2 protocol.
+libssh2 is available from http:/libssh2.org/
 
 * brew php ssh2
 * Bindings for the libssh2 library
