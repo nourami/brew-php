@@ -48,7 +48,7 @@ _[Doc]_:
 _[install]_:
 
 * 1- download ssh-php.rb
-* 2- mv ssh-php.rb \`brew --prefix\`/Library/Formula
+* 2- ``mv ssh-php.rb `brew --prefix`/Library/Formula``
 * 3- `brew install ssh-php`
 
 _[Doc]_:
