@@ -16,7 +16,7 @@ some php related formulas
 _[install]_:
 
 * 1- download xhprof.rb
-* 2- mv xhprof.rb \`brew --prefix\`/Library/Formula
+* 2- ``mv xhprof.rb `brew --prefix`/Library/Formula``
 * 3- `brew install xhprof`
 
 _[Doc]_:
@@ -32,7 +32,7 @@ _[Doc]_:
 _[install]_:
 
 * 1- download http-php.rb
-* 2- mv http-php.rb \`brew --prefix\`/Library/Formula
+* 2- ``mv http-php.rb `brew --prefix`/Library/Formula``
 * 3- `brew install http-php`
 
 _[Doc]_:
