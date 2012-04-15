@@ -1,5 +1,5 @@
 # Brew-php
-some php related formulas
+PHP related formulas for homebrew
 
 ## Requirements
 
