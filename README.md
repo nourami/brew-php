@@ -25,6 +25,7 @@ _[Doc]_:
 [http://pecl.php.net/package/xhprof](http://pecl.php.net/package/xhprof)
 
 
+
 #_[http-php]_
 
 The HTTP extension aims to provide a convenient and powerful set of functionality for major applications.
@@ -45,6 +46,7 @@ _[Doc]_:
 [http://php.net/manual/en/book.http.php](http://php.net/manual/en/book.http.php)
 
 
+
 #_[ssh-php]_
 
 Provides bindings to the functions of libssh2 which implements the SSH2 protocol.
@@ -61,3 +63,21 @@ _[install]_:
 _[Doc]_:
 
 [http://pecl.php.net/package/ssh2](http://pecl.php.net/package/ssh2)
+
+
+
+#_[varnish-php]_
+
+Varnish Cache is an open source, state of the art web application accelerator. The extension makes it possible to interact with a running varnish instance through TCP socket or shared memory.
+
+* brew php varnish
+
+_[install]_
+
+* 1- download varnish-php.rb
+* 2- ``mv varnish-php.rb `brew --prefix`/Library/Formula``
+* 3- `brew install varnish-php`
+
+_[Doc]_:
+
+[http://www.php.net/manual/en/book.varnish.php](http://www.php.net/manual/en/book.varnish.php)
