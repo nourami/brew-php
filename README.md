@@ -1,6 +1,11 @@
 # Brew-php
 PHP related formulas for homebrew
 
+* xhprof
+* http-php
+* ssh-php
+* varnish-php
+
 ## Requirements
 
 * Homebrew
