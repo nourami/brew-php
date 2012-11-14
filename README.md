@@ -6,6 +6,7 @@ PHP related formulas for homebrew
 * ssh-php
 * varnish-php
 * imagick
+* gearman
 
 ## Requirements
 
@@ -104,3 +105,21 @@ _[install]_
 _[Doc]_:
 
 [http://www.php.net/manual/en/book.imagick.php](http://www.php.net/manual/en/book.imagick.php)
+
+#_[gearman-php]_
+
+is a generic application framework for farming out work to multiple machines or processes. It allows applications to complete tasks in parallel, to load balance processing, and to call functions between languages. The framework can be used in a variety of applications, from high-availability web sites to the transport of database replication events.
+
+This extension provides classes for writing Gearman clients and workers.
+
+* brew php gearman
+
+_[install]_
+
+* 1- download gearman-php.rb
+* 2- ``mv gearman-php.rb `brew --prefix`/Library/Formula``
+* 3- `brew install gearman-php`
+
+_[Doc]_:
+
+[http://www.php.net/manual/en/book.gearman.php](http://www.php.net/manual/en/book.gearman.php)
