@@ -10,7 +10,7 @@ class Xhprof <Formula
       # See https://github.com/mxcl/homebrew/issues/issue/69
       ENV.universal_binary unless Hardware.is_64_bit?
       system "phpize"
-      system "./configure"
+      system "./configure", "--prefix=#{prefix}"
       system "make"
       prefix.install 'modules/xhprof.so'
     end

@@ -5,6 +5,7 @@ PHP related formulas for homebrew
 * http-php
 * ssh-php
 * varnish-php
+* imagick
 
 ## Requirements
 
@@ -86,3 +87,20 @@ _[install]_
 _[Doc]_:
 
 [http://www.php.net/manual/en/book.varnish.php](http://www.php.net/manual/en/book.varnish.php)
+
+
+#_[imagick-php]_
+
+Imagick is a native php extension to create and modify images using the ImageMagick API. 
+
+* brew php imagick
+
+_[install]_
+
+* 1- download imagick-php.rb
+* 2- ``mv imagick-php.rb `brew --prefix`/Library/Formula``
+* 3- `brew install imagick-php`
+
+_[Doc]_:
+
+[http://www.php.net/manual/en/book.imagick.php](http://www.php.net/manual/en/book.imagick.php)
